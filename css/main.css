@@ -1,0 +1,59 @@
+.buttun-pay__picture {
+  width: 15%;
+}
+
+.main__container-info {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+
+.container-info__blok {
+  width: 100%;
+  padding-top: 86px;
+  gap: 10%;
+}
+
+.blok__button-pay {
+  width: 270px;
+  height: 84px;
+  margin-left: 126px;
+  background-color: #5222D0;
+  border-radius:45px;
+  font-family: 'Arial Bold';
+  font-size: 35px;
+  color: white;
+}
+
+.blok__title {
+  width: 100%;
+  padding-left: 126px;
+  font-family: Arial, bold;
+  font-size: 60px;
+  color: black;
+  padding-bottom: 3%;
+}
+
+.blok__text {
+  width: 100%;
+  padding-left: 126px;
+  align-items: start;
+  font-family: 'Roboto Slab';
+  font-size: 20px;
+  padding-bottom: 3%;
+}
+
+.info__picture {
+  width: 100%;
+  background-image: url(../images/guy_background.svg);
+  background-size: cover;
+}
+
+.picture__aside {
+  width: 563.06px;
+  height: 692.27px; 
+  margin-left: 50px;
+  margin-bottom: -90px;
+}
+

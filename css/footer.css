@@ -1,0 +1,22 @@
+.menu__container{
+  width: 668px;
+  margin-left: 126px;
+}
+
+.active-link{
+  text-decoration: none;
+  color: #5222D0;
+}
+
+.menu-list {
+  width: 100%;
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.menu-list__item {
+  width: 100%;
+  font-family: 'Roboto Slab';
+  font-size: 20px;
+}

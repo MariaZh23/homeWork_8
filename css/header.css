@@ -1,0 +1,46 @@
+.header__browser {
+  width: 100%;
+  height: 40px;
+  background-image: url(..//images/browser.svg);
+  background-size: cover;
+  border-bottom-style:groove;
+}
+
+.browser__text {
+  display: flex;
+  justify-content: center;
+  padding-top: 12px;  
+  font-family: Arial;
+  font-size: 16px;
+  opacity: 50%;
+  color: #000000;
+}
+
+.header__logo-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+  padding-left: 74px;
+  padding-right: 76px;
+}
+
+.logo-container__image {
+  width: 201px;
+  height: 40px;
+  margin: 0;
+}
+
+.logo-container__button-basket {
+  width: 115px;
+  height: 38px;
+  margin: 0;
+  background-color: #5222D0;
+  border-radius:45px;
+  font-family: 'Arial Bold';
+  font-size: 13px;
+  color: white;
+}
+
+.button-basket__picture {
+  width: 15%;
+}
